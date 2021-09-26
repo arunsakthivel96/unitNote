@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: unitNote.utility.utility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/utility/build/libs/utility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

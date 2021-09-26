@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">unitNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_hint_txt">Title</string>
+    <string name="content_hint_txt">Content</string>
+    <string name="todo">TODO</string>
+<!--    <string name="todo">TODO</string>-->
+</resources>
